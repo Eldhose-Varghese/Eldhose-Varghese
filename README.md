@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TATA Online Sales Data Analysis](https://github.com/Eldhose-Varghese/TATA-Online-Sales-Data-Analysis)
 
-- 🌱 I’m currently learning **https://learn.365datascience.com/courses/preview/sql/**
+- 🌱 I’m currently learning **https://www.udemy.com/course/master-html-and-css-by-building-real-world-projects/**
 
 - 👯 I’m looking to collaborate on [The Data Trailblazer-A Journey Through Files and Folders](https://github.com/Eldhose-Varghese/The-Data-Trailblazer-A-Journey-Through-Files-and-Folders)
 
