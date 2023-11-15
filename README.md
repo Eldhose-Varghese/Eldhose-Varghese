@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eldhose-Varghese](https://github.com/Eldhose-Varghese)
 
-- 💬 Ask me about **Python, Git, Linux**
+- 💬 Ask me about **Python, Git, Linux, HTML**
 
 - 📫 How to reach me **eldhose.analyst@gmail.com**
 
